@@ -1389,6 +1389,7 @@
                     "Docker Compose"
                 ],
                 "filenamePatterns": [
+                    // TODO: is this case sensitive on Linux?
                     "*compose*.{yaml,yml}"
                 ],
                 "configuration": "./yaml/language-configuration.json"
